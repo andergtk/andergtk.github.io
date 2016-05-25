@@ -11,10 +11,10 @@ var del      = require('del');
 // Paths
 var path = {
   dest: {
-    css  : 'assets/stylesheets/'
+    css  : 'assets/css/'
   , fonts: 'assets/fonts/'
-  , js   : 'assets/scripts/'
-  , img  : 'assets/images/'
+  , js   : 'assets/js/'
+  , img  : 'assets/img/'
   }
 
 , css: [
