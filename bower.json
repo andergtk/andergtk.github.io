@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "normalize-css": "^4.1.1",
-    "tether-tooltip": "^1.2.0"
+    "tether-tooltip": "^1.2.0",
+    "Ionicons": "ionicons#^2.0.1"
   }
 }
